@@ -62,6 +62,9 @@ function play (question, answer) {
      question:"10) capital of west bengal? ",
     answer:"kolkata"
 },
+{ question:"capital of orissa?",
+answer:"Bhubaneswar"
+},
 ];
 
 for ( var i=0; i<questions.length; i++){
